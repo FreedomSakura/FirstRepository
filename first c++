@@ -1,0 +1,7 @@
+#include <iostream>
+usingname space
+
+int main(){
+  cout << "hello github!" << endl;
+  return 0;
+}
